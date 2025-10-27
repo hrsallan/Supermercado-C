@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="Linguagem C" width="100" height="100"/>
 </p>
-<h1 align="center">Gerador de CPF em C</h1>
+<h1 align="center">Supermercado em C</h1>
 
 ## 📖 Sobre o Projeto
 
-Este projeto consiste em um sistema simples de **Controle de Estoque** desenvolvido inteiramente em **Linguagem C**. A aplicação funciona via console (terminal) e permite ao usuário realizar operações básicas de gerenciamento de produtos, como cadastro, listagem, busca e movimentação de estoque.
+Este projeto consiste em um sistema de **Supermercado** desenvolvido inteiramente em **Linguagem C**. A aplicação funciona via console (terminal) e permite ao usuário realizar operações básicas de gerenciamento de produtos, como cadastro, listagem, busca e movimentação de estoque.
 
 O sistema foi desenvolvido como trabalho acadêmico para o curso de **Ciências da Computação** da **UNIPAC Barbacena**, com o objetivo de aplicar conceitos fundamentais de programação estruturada, manipulação de dados e algoritmos de busca.
 
