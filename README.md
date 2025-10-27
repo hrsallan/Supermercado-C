@@ -1,6 +1,6 @@
 # Supermercado em C
 
-![Status do Projeto](https://img.shields.io/badge/status-concluído-green)
+![Linguagem C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ## 📖 Sobre o Projeto
 
