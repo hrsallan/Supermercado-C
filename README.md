@@ -1,6 +1,7 @@
-# Supermercado em C
-
-![Linguagem C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="Linguagem C" width="100" height="100"/>
+</p>
+<h1 align="center">Gerador de CPF em C</h1>
 
 ## 📖 Sobre o Projeto
 
