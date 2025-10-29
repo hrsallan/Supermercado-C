@@ -66,7 +66,7 @@ Para compilar e executar o projeto, você precisará de um compilador C, como o 
 
 ---
 
-## 👨‍💻 Autor
+## 👨🏻‍💻 Autor
 
 * **Autor:** Allan Henrique Rosa Silva
 * **Instituição:** UNIPAC Barbacena
